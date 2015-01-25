@@ -1,4 +1,4 @@
-# run_analysis.r
+#run_analysis.r
 #Load Data & Features to assign column names
 
 	Train = read.table("./UCI HAR Dataset/train/X_train.txt") 
