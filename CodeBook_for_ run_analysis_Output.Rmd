@@ -1,12 +1,6 @@
 
 ## Code Book for "Means.txt"" (output of the run_analysis script)
 
-Original Files
-    *Full data set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-    
-    *Description of study can be found here: 
- 	http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
 ###Columns in the Means.txt output file
 
 The output file (Means.txt) contains means for each subject for each of the activities for each of the means and standard deviation variables of the full dataset (66 variables, with Subject and Activity as IDs). Means and standard deviations were only included into this set if the mean or std was at the end of the variable name, not with the first part of the variable name. All variables are listed below: 
